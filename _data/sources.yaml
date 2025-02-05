@@ -14,7 +14,7 @@
     - prefix-caching
 - id: doi:10.1145/3694715.3695963
   type: paper
-  image: 
+  image: images/thumbs/apparate.png
   buttons:
     - type: source
       text: GitHub
@@ -22,7 +22,12 @@
   tags:
     - large-language-models
     - efficient-inference
-
+- id: doi:10.1145/3694715.3695978
+  type: paper
+  image: images/thumbs/e3.png
+  tags:
+    - large-language-models
+    - efficient-inference
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
 #   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
