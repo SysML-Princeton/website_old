@@ -5,7 +5,7 @@
 
   # SysML-Princeton's Website
 
-  Visit **[sysml.cs.princeton.edu](http://sysml.cs.princeton.edu)** 🚀
+  Visit **[sysml-princeton.github.io/website_old](https://sysml-princeton.github.io/website_old)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
